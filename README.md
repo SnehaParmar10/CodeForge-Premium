@@ -2,6 +2,8 @@
 
 A professional-grade, browser-based code editor interface designed to emulate the look and feel of modern integrated development environments (IDEs).
 
+A professional-grade, browser-based code editor interface designed to emulate the look and feel of modern integrated development environments (IDEs).
+
 ## ✨ Features
 - **VS Code Aesthetic**: Familiar sidebar, file tree, and tab-based navigation.
 - **Syntax Highlighting**: Mock code representation with color-coded keywords, strings, and functions.
