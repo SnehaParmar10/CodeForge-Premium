@@ -8,7 +8,7 @@ A professional-grade, browser-based code editor interface designed to emulate th
 ## ✨ Features
 - **VS Code Aesthetic**: Familiar sidebar, file tree, and tab-based navigation.
 - **Syntax Highlighting**: Mock code representation with color-coded keywords, strings, and functions.
-- **Developer Experience**: Optimized for code clarity with "JetBrains Mono" typography.
+- **Developer Experience**: Optimized for code clarity with "helloJetBrains Mono" typography.
 - **Integrated HUD**: Sidebar icons for Explorer, Search, and Settings.
 
 ## 🛠️ Tech Stack
