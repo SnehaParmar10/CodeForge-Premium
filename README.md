@@ -17,4 +17,4 @@ A professional-grade, browser-based code editor interface designed to emulate th
 
 ## 🧠 Why I built this?
 An IDE is a developer's primary tool. I built CodeForge to demonstrate my understanding of complex UI architectures and my appreciation for high-quality developer tools that empower engineers to build better software.
-hello
+minor documentation improvements and content updates
